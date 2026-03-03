@@ -1,0 +1,5 @@
+{
+  "name": "MedGuard: AI Medicine Label Detector",
+  "description": "An AI-powered tool to help identify potentially counterfeit medicine packaging by analyzing labels for inconsistencies, typos, and regulatory marks.",
+  "requestFramePermissions": ["camera"]
+}
